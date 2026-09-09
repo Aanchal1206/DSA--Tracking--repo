@@ -140,6 +140,7 @@ Every problem is an opportunity to improve.
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/Aanchal1206/DSA--Tracking--repo/tree/master/0268-missing-number) |
+| [0283-move-zeroes](https://github.com/Aanchal1206/DSA--Tracking--repo/tree/master/0283-move-zeroes) |
 ## Hash Table
 |  |
 | ------- |
@@ -160,4 +161,8 @@ Every problem is an opportunity to improve.
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/Aanchal1206/DSA--Tracking--repo/tree/master/0268-missing-number) |
+## Two Pointers
+|  |
+| ------- |
+| [0283-move-zeroes](https://github.com/Aanchal1206/DSA--Tracking--repo/tree/master/0283-move-zeroes) |
 <!---LeetCode Topics End-->
