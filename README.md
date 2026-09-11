@@ -140,6 +140,7 @@ Every problem is an opportunity to improve.
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Aanchal1206/DSA--Tracking--repo/tree/master/0001-two-sum) |
+| [0088-merge-sorted-array](https://github.com/Aanchal1206/DSA--Tracking--repo/tree/master/0088-merge-sorted-array) |
 | [0268-missing-number](https://github.com/Aanchal1206/DSA--Tracking--repo/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Aanchal1206/DSA--Tracking--repo/tree/master/0283-move-zeroes) |
 ## Hash Table
@@ -162,9 +163,11 @@ Every problem is an opportunity to improve.
 ## Sorting
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/Aanchal1206/DSA--Tracking--repo/tree/master/0088-merge-sorted-array) |
 | [0268-missing-number](https://github.com/Aanchal1206/DSA--Tracking--repo/tree/master/0268-missing-number) |
 ## Two Pointers
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/Aanchal1206/DSA--Tracking--repo/tree/master/0088-merge-sorted-array) |
 | [0283-move-zeroes](https://github.com/Aanchal1206/DSA--Tracking--repo/tree/master/0283-move-zeroes) |
 <!---LeetCode Topics End-->
