@@ -141,6 +141,7 @@ Every problem is an opportunity to improve.
 | ------- |
 | [0001-two-sum](https://github.com/Aanchal1206/DSA--Tracking--repo/tree/master/0001-two-sum) |
 | [0088-merge-sorted-array](https://github.com/Aanchal1206/DSA--Tracking--repo/tree/master/0088-merge-sorted-array) |
+| [0136-single-number](https://github.com/Aanchal1206/DSA--Tracking--repo/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/Aanchal1206/DSA--Tracking--repo/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Aanchal1206/DSA--Tracking--repo/tree/master/0283-move-zeroes) |
 ## Hash Table
@@ -159,6 +160,7 @@ Every problem is an opportunity to improve.
 ## Bit Manipulation
 |  |
 | ------- |
+| [0136-single-number](https://github.com/Aanchal1206/DSA--Tracking--repo/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/Aanchal1206/DSA--Tracking--repo/tree/master/0268-missing-number) |
 ## Sorting
 |  |
