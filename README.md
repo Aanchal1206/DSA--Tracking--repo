@@ -140,6 +140,7 @@ Every problem is an opportunity to improve.
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Aanchal1206/DSA--Tracking--repo/tree/master/0001-two-sum) |
+| [0056-merge-intervals](https://github.com/Aanchal1206/DSA--Tracking--repo/tree/master/0056-merge-intervals) |
 | [0088-merge-sorted-array](https://github.com/Aanchal1206/DSA--Tracking--repo/tree/master/0088-merge-sorted-array) |
 | [0128-longest-consecutive-sequence](https://github.com/Aanchal1206/DSA--Tracking--repo/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/Aanchal1206/DSA--Tracking--repo/tree/master/0136-single-number) |
@@ -168,6 +169,7 @@ Every problem is an opportunity to improve.
 ## Sorting
 |  |
 | ------- |
+| [0056-merge-intervals](https://github.com/Aanchal1206/DSA--Tracking--repo/tree/master/0056-merge-intervals) |
 | [0088-merge-sorted-array](https://github.com/Aanchal1206/DSA--Tracking--repo/tree/master/0088-merge-sorted-array) |
 | [0268-missing-number](https://github.com/Aanchal1206/DSA--Tracking--repo/tree/master/0268-missing-number) |
 ## Two Pointers
@@ -183,4 +185,8 @@ Every problem is an opportunity to improve.
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/Aanchal1206/DSA--Tracking--repo/tree/master/0128-longest-consecutive-sequence) |
+## Quicksort
+|  |
+| ------- |
+| [0056-merge-intervals](https://github.com/Aanchal1206/DSA--Tracking--repo/tree/master/0056-merge-intervals) |
 <!---LeetCode Topics End-->
