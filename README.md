@@ -141,6 +141,7 @@ Every problem is an opportunity to improve.
 | ------- |
 | [0001-two-sum](https://github.com/Aanchal1206/DSA--Tracking--repo/tree/master/0001-two-sum) |
 | [0088-merge-sorted-array](https://github.com/Aanchal1206/DSA--Tracking--repo/tree/master/0088-merge-sorted-array) |
+| [0128-longest-consecutive-sequence](https://github.com/Aanchal1206/DSA--Tracking--repo/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/Aanchal1206/DSA--Tracking--repo/tree/master/0136-single-number) |
 | [0152-maximum-product-subarray](https://github.com/Aanchal1206/DSA--Tracking--repo/tree/master/0152-maximum-product-subarray) |
 | [0268-missing-number](https://github.com/Aanchal1206/DSA--Tracking--repo/tree/master/0268-missing-number) |
@@ -149,6 +150,7 @@ Every problem is an opportunity to improve.
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Aanchal1206/DSA--Tracking--repo/tree/master/0001-two-sum) |
+| [0128-longest-consecutive-sequence](https://github.com/Aanchal1206/DSA--Tracking--repo/tree/master/0128-longest-consecutive-sequence) |
 | [0268-missing-number](https://github.com/Aanchal1206/DSA--Tracking--repo/tree/master/0268-missing-number) |
 ## Math
 |  |
@@ -177,4 +179,8 @@ Every problem is an opportunity to improve.
 |  |
 | ------- |
 | [0152-maximum-product-subarray](https://github.com/Aanchal1206/DSA--Tracking--repo/tree/master/0152-maximum-product-subarray) |
+## Union-Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/Aanchal1206/DSA--Tracking--repo/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
