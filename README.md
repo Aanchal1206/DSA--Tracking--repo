@@ -152,6 +152,7 @@ Every problem is an opportunity to improve.
 | ------- |
 | [0001-two-sum](https://github.com/Aanchal1206/DSA--Tracking--repo/tree/master/0001-two-sum) |
 | [0128-longest-consecutive-sequence](https://github.com/Aanchal1206/DSA--Tracking--repo/tree/master/0128-longest-consecutive-sequence) |
+| [0242-valid-anagram](https://github.com/Aanchal1206/DSA--Tracking--repo/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Aanchal1206/DSA--Tracking--repo/tree/master/0268-missing-number) |
 ## Math
 |  |
@@ -171,6 +172,7 @@ Every problem is an opportunity to improve.
 | ------- |
 | [0056-merge-intervals](https://github.com/Aanchal1206/DSA--Tracking--repo/tree/master/0056-merge-intervals) |
 | [0088-merge-sorted-array](https://github.com/Aanchal1206/DSA--Tracking--repo/tree/master/0088-merge-sorted-array) |
+| [0242-valid-anagram](https://github.com/Aanchal1206/DSA--Tracking--repo/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Aanchal1206/DSA--Tracking--repo/tree/master/0268-missing-number) |
 ## Two Pointers
 |  |
@@ -189,4 +191,8 @@ Every problem is an opportunity to improve.
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/Aanchal1206/DSA--Tracking--repo/tree/master/0056-merge-intervals) |
+## String
+|  |
+| ------- |
+| [0242-valid-anagram](https://github.com/Aanchal1206/DSA--Tracking--repo/tree/master/0242-valid-anagram) |
 <!---LeetCode Topics End-->
