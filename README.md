@@ -155,6 +155,7 @@ Every problem is an opportunity to improve.
 | [0001-two-sum](https://github.com/Aanchal1206/DSA--Tracking--repo/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Aanchal1206/DSA--Tracking--repo/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0049-group-anagrams](https://github.com/Aanchal1206/DSA--Tracking--repo/tree/master/0049-group-anagrams) |
+| [0076-minimum-window-substring](https://github.com/Aanchal1206/DSA--Tracking--repo/tree/master/0076-minimum-window-substring) |
 | [0128-longest-consecutive-sequence](https://github.com/Aanchal1206/DSA--Tracking--repo/tree/master/0128-longest-consecutive-sequence) |
 | [0242-valid-anagram](https://github.com/Aanchal1206/DSA--Tracking--repo/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Aanchal1206/DSA--Tracking--repo/tree/master/0268-missing-number) |
@@ -207,6 +208,7 @@ Every problem is an opportunity to improve.
 | [0005-longest-palindromic-substring](https://github.com/Aanchal1206/DSA--Tracking--repo/tree/master/0005-longest-palindromic-substring) |
 | [0014-longest-common-prefix](https://github.com/Aanchal1206/DSA--Tracking--repo/tree/master/0014-longest-common-prefix) |
 | [0049-group-anagrams](https://github.com/Aanchal1206/DSA--Tracking--repo/tree/master/0049-group-anagrams) |
+| [0076-minimum-window-substring](https://github.com/Aanchal1206/DSA--Tracking--repo/tree/master/0076-minimum-window-substring) |
 | [0151-reverse-words-in-a-string](https://github.com/Aanchal1206/DSA--Tracking--repo/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/Aanchal1206/DSA--Tracking--repo/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/Aanchal1206/DSA--Tracking--repo/tree/master/0344-reverse-string) |
@@ -222,4 +224,5 @@ Every problem is an opportunity to improve.
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Aanchal1206/DSA--Tracking--repo/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0076-minimum-window-substring](https://github.com/Aanchal1206/DSA--Tracking--repo/tree/master/0076-minimum-window-substring) |
 <!---LeetCode Topics End-->
