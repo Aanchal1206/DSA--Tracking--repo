@@ -178,6 +178,7 @@ Every problem is an opportunity to improve.
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Aanchal1206/DSA--Tracking--repo/tree/master/0005-longest-palindromic-substring) |
 | [0088-merge-sorted-array](https://github.com/Aanchal1206/DSA--Tracking--repo/tree/master/0088-merge-sorted-array) |
 | [0151-reverse-words-in-a-string](https://github.com/Aanchal1206/DSA--Tracking--repo/tree/master/0151-reverse-words-in-a-string) |
 | [0283-move-zeroes](https://github.com/Aanchal1206/DSA--Tracking--repo/tree/master/0283-move-zeroes) |
@@ -185,6 +186,7 @@ Every problem is an opportunity to improve.
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Aanchal1206/DSA--Tracking--repo/tree/master/0005-longest-palindromic-substring) |
 | [0152-maximum-product-subarray](https://github.com/Aanchal1206/DSA--Tracking--repo/tree/master/0152-maximum-product-subarray) |
 ## Union-Find
 |  |
@@ -197,6 +199,7 @@ Every problem is an opportunity to improve.
 ## String
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Aanchal1206/DSA--Tracking--repo/tree/master/0005-longest-palindromic-substring) |
 | [0014-longest-common-prefix](https://github.com/Aanchal1206/DSA--Tracking--repo/tree/master/0014-longest-common-prefix) |
 | [0151-reverse-words-in-a-string](https://github.com/Aanchal1206/DSA--Tracking--repo/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/Aanchal1206/DSA--Tracking--repo/tree/master/0242-valid-anagram) |
@@ -205,4 +208,8 @@ Every problem is an opportunity to improve.
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Aanchal1206/DSA--Tracking--repo/tree/master/0014-longest-common-prefix) |
+## Manacher
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/Aanchal1206/DSA--Tracking--repo/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->
