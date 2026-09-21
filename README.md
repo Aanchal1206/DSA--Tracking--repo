@@ -152,6 +152,7 @@ Every problem is an opportunity to improve.
 | [0152-maximum-product-subarray](https://github.com/Aanchal1206/DSA--Tracking--repo/tree/master/0152-maximum-product-subarray) |
 | [0268-missing-number](https://github.com/Aanchal1206/DSA--Tracking--repo/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Aanchal1206/DSA--Tracking--repo/tree/master/0283-move-zeroes) |
+| [0643-maximum-average-subarray-i](https://github.com/Aanchal1206/DSA--Tracking--repo/tree/master/0643-maximum-average-subarray-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -232,6 +233,7 @@ Every problem is an opportunity to improve.
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Aanchal1206/DSA--Tracking--repo/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0076-minimum-window-substring](https://github.com/Aanchal1206/DSA--Tracking--repo/tree/master/0076-minimum-window-substring) |
+| [0643-maximum-average-subarray-i](https://github.com/Aanchal1206/DSA--Tracking--repo/tree/master/0643-maximum-average-subarray-i) |
 ## Greedy
 |  |
 | ------- |
