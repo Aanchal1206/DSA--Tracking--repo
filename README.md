@@ -150,6 +150,7 @@ Every problem is an opportunity to improve.
 | [0128-longest-consecutive-sequence](https://github.com/Aanchal1206/DSA--Tracking--repo/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/Aanchal1206/DSA--Tracking--repo/tree/master/0136-single-number) |
 | [0152-maximum-product-subarray](https://github.com/Aanchal1206/DSA--Tracking--repo/tree/master/0152-maximum-product-subarray) |
+| [0209-minimum-size-subarray-sum](https://github.com/Aanchal1206/DSA--Tracking--repo/tree/master/0209-minimum-size-subarray-sum) |
 | [0268-missing-number](https://github.com/Aanchal1206/DSA--Tracking--repo/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Aanchal1206/DSA--Tracking--repo/tree/master/0283-move-zeroes) |
 | [0643-maximum-average-subarray-i](https://github.com/Aanchal1206/DSA--Tracking--repo/tree/master/0643-maximum-average-subarray-i) |
@@ -173,6 +174,7 @@ Every problem is an opportunity to improve.
 ## Binary Search
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/Aanchal1206/DSA--Tracking--repo/tree/master/0209-minimum-size-subarray-sum) |
 | [0268-missing-number](https://github.com/Aanchal1206/DSA--Tracking--repo/tree/master/0268-missing-number) |
 ## Bit Manipulation
 |  |
@@ -240,6 +242,7 @@ Every problem is an opportunity to improve.
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Aanchal1206/DSA--Tracking--repo/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0076-minimum-window-substring](https://github.com/Aanchal1206/DSA--Tracking--repo/tree/master/0076-minimum-window-substring) |
+| [0209-minimum-size-subarray-sum](https://github.com/Aanchal1206/DSA--Tracking--repo/tree/master/0209-minimum-size-subarray-sum) |
 | [0424-longest-repeating-character-replacement](https://github.com/Aanchal1206/DSA--Tracking--repo/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Aanchal1206/DSA--Tracking--repo/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/Aanchal1206/DSA--Tracking--repo/tree/master/0567-permutation-in-string) |
@@ -248,4 +251,8 @@ Every problem is an opportunity to improve.
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Aanchal1206/DSA--Tracking--repo/tree/master/0011-container-with-most-water) |
+## Prefix Sum
+|  |
+| ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/Aanchal1206/DSA--Tracking--repo/tree/master/0209-minimum-size-subarray-sum) |
 <!---LeetCode Topics End-->
