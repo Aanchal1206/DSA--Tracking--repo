@@ -153,6 +153,7 @@ Every problem is an opportunity to improve.
 | [0209-minimum-size-subarray-sum](https://github.com/Aanchal1206/DSA--Tracking--repo/tree/master/0209-minimum-size-subarray-sum) |
 | [0268-missing-number](https://github.com/Aanchal1206/DSA--Tracking--repo/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Aanchal1206/DSA--Tracking--repo/tree/master/0283-move-zeroes) |
+| [0347-top-k-frequent-elements](https://github.com/Aanchal1206/DSA--Tracking--repo/tree/master/0347-top-k-frequent-elements) |
 | [0643-maximum-average-subarray-i](https://github.com/Aanchal1206/DSA--Tracking--repo/tree/master/0643-maximum-average-subarray-i) |
 ## Hash Table
 |  |
@@ -164,6 +165,7 @@ Every problem is an opportunity to improve.
 | [0128-longest-consecutive-sequence](https://github.com/Aanchal1206/DSA--Tracking--repo/tree/master/0128-longest-consecutive-sequence) |
 | [0242-valid-anagram](https://github.com/Aanchal1206/DSA--Tracking--repo/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Aanchal1206/DSA--Tracking--repo/tree/master/0268-missing-number) |
+| [0347-top-k-frequent-elements](https://github.com/Aanchal1206/DSA--Tracking--repo/tree/master/0347-top-k-frequent-elements) |
 | [0424-longest-repeating-character-replacement](https://github.com/Aanchal1206/DSA--Tracking--repo/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Aanchal1206/DSA--Tracking--repo/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/Aanchal1206/DSA--Tracking--repo/tree/master/0567-permutation-in-string) |
@@ -190,6 +192,7 @@ Every problem is an opportunity to improve.
 | [0088-merge-sorted-array](https://github.com/Aanchal1206/DSA--Tracking--repo/tree/master/0088-merge-sorted-array) |
 | [0242-valid-anagram](https://github.com/Aanchal1206/DSA--Tracking--repo/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Aanchal1206/DSA--Tracking--repo/tree/master/0268-missing-number) |
+| [0347-top-k-frequent-elements](https://github.com/Aanchal1206/DSA--Tracking--repo/tree/master/0347-top-k-frequent-elements) |
 ## Two Pointers
 |  |
 | ------- |
@@ -255,4 +258,24 @@ Every problem is an opportunity to improve.
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Aanchal1206/DSA--Tracking--repo/tree/master/0209-minimum-size-subarray-sum) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/Aanchal1206/DSA--Tracking--repo/tree/master/0347-top-k-frequent-elements) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/Aanchal1206/DSA--Tracking--repo/tree/master/0347-top-k-frequent-elements) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/Aanchal1206/DSA--Tracking--repo/tree/master/0347-top-k-frequent-elements) |
+## Counting
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/Aanchal1206/DSA--Tracking--repo/tree/master/0347-top-k-frequent-elements) |
+## Quickselect
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/Aanchal1206/DSA--Tracking--repo/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
