@@ -144,6 +144,7 @@ Every problem is an opportunity to improve.
 | [0014-longest-common-prefix](https://github.com/Aanchal1206/DSA--Tracking--repo/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/Aanchal1206/DSA--Tracking--repo/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Aanchal1206/DSA--Tracking--repo/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0035-search-insert-position](https://github.com/Aanchal1206/DSA--Tracking--repo/tree/master/0035-search-insert-position) |
 | [0049-group-anagrams](https://github.com/Aanchal1206/DSA--Tracking--repo/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/Aanchal1206/DSA--Tracking--repo/tree/master/0056-merge-intervals) |
 | [0088-merge-sorted-array](https://github.com/Aanchal1206/DSA--Tracking--repo/tree/master/0088-merge-sorted-array) |
@@ -177,6 +178,7 @@ Every problem is an opportunity to improve.
 ## Binary Search
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/Aanchal1206/DSA--Tracking--repo/tree/master/0035-search-insert-position) |
 | [0209-minimum-size-subarray-sum](https://github.com/Aanchal1206/DSA--Tracking--repo/tree/master/0209-minimum-size-subarray-sum) |
 | [0268-missing-number](https://github.com/Aanchal1206/DSA--Tracking--repo/tree/master/0268-missing-number) |
 | [0704-binary-search](https://github.com/Aanchal1206/DSA--Tracking--repo/tree/master/0704-binary-search) |
