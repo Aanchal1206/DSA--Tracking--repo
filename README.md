@@ -181,6 +181,7 @@ Every problem is an opportunity to improve.
 | [0035-search-insert-position](https://github.com/Aanchal1206/DSA--Tracking--repo/tree/master/0035-search-insert-position) |
 | [0209-minimum-size-subarray-sum](https://github.com/Aanchal1206/DSA--Tracking--repo/tree/master/0209-minimum-size-subarray-sum) |
 | [0268-missing-number](https://github.com/Aanchal1206/DSA--Tracking--repo/tree/master/0268-missing-number) |
+| [0278-first-bad-version](https://github.com/Aanchal1206/DSA--Tracking--repo/tree/master/0278-first-bad-version) |
 | [0704-binary-search](https://github.com/Aanchal1206/DSA--Tracking--repo/tree/master/0704-binary-search) |
 ## Bit Manipulation
 |  |
@@ -290,4 +291,8 @@ Every problem is an opportunity to improve.
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/Aanchal1206/DSA--Tracking--repo/tree/master/0206-reverse-linked-list) |
+## Interactive
+|  |
+| ------- |
+| [0278-first-bad-version](https://github.com/Aanchal1206/DSA--Tracking--repo/tree/master/0278-first-bad-version) |
 <!---LeetCode Topics End-->
