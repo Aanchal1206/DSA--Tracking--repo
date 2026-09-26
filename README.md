@@ -161,6 +161,7 @@ Every problem is an opportunity to improve.
 | [0643-maximum-average-subarray-i](https://github.com/Aanchal1206/DSA--Tracking--repo/tree/master/0643-maximum-average-subarray-i) |
 | [0704-binary-search](https://github.com/Aanchal1206/DSA--Tracking--repo/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/Aanchal1206/DSA--Tracking--repo/tree/master/0875-koko-eating-bananas) |
+| [1011-capacity-to-ship-packages-within-d-days](https://github.com/Aanchal1206/DSA--Tracking--repo/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Aanchal1206/DSA--Tracking--repo/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 ## Hash Table
 |  |
@@ -193,6 +194,7 @@ Every problem is an opportunity to improve.
 | [0278-first-bad-version](https://github.com/Aanchal1206/DSA--Tracking--repo/tree/master/0278-first-bad-version) |
 | [0704-binary-search](https://github.com/Aanchal1206/DSA--Tracking--repo/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/Aanchal1206/DSA--Tracking--repo/tree/master/0875-koko-eating-bananas) |
+| [1011-capacity-to-ship-packages-within-d-days](https://github.com/Aanchal1206/DSA--Tracking--repo/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 ## Bit Manipulation
 |  |
 | ------- |
