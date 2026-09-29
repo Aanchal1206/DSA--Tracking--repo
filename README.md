@@ -159,6 +159,7 @@ Every problem is an opportunity to improve.
 | [0268-missing-number](https://github.com/Aanchal1206/DSA--Tracking--repo/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Aanchal1206/DSA--Tracking--repo/tree/master/0283-move-zeroes) |
 | [0347-top-k-frequent-elements](https://github.com/Aanchal1206/DSA--Tracking--repo/tree/master/0347-top-k-frequent-elements) |
+| [0485-max-consecutive-ones](https://github.com/Aanchal1206/DSA--Tracking--repo/tree/master/0485-max-consecutive-ones) |
 | [0643-maximum-average-subarray-i](https://github.com/Aanchal1206/DSA--Tracking--repo/tree/master/0643-maximum-average-subarray-i) |
 | [0704-binary-search](https://github.com/Aanchal1206/DSA--Tracking--repo/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/Aanchal1206/DSA--Tracking--repo/tree/master/0875-koko-eating-bananas) |
