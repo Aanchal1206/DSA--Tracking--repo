@@ -164,6 +164,7 @@ Every problem is an opportunity to improve.
 | [0875-koko-eating-bananas](https://github.com/Aanchal1206/DSA--Tracking--repo/tree/master/0875-koko-eating-bananas) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Aanchal1206/DSA--Tracking--repo/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Aanchal1206/DSA--Tracking--repo/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
+| [1929-concatenation-of-array](https://github.com/Aanchal1206/DSA--Tracking--repo/tree/master/1929-concatenation-of-array) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Aanchal1206/DSA--Tracking--repo/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 ## Hash Table
 |  |
@@ -341,4 +342,8 @@ Every problem is an opportunity to improve.
 |  |
 | ------- |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Aanchal1206/DSA--Tracking--repo/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
+## Simulation
+|  |
+| ------- |
+| [1929-concatenation-of-array](https://github.com/Aanchal1206/DSA--Tracking--repo/tree/master/1929-concatenation-of-array) |
 <!---LeetCode Topics End-->
