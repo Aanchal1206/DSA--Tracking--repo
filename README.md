@@ -164,6 +164,7 @@ Every problem is an opportunity to improve.
 | [0875-koko-eating-bananas](https://github.com/Aanchal1206/DSA--Tracking--repo/tree/master/0875-koko-eating-bananas) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Aanchal1206/DSA--Tracking--repo/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Aanchal1206/DSA--Tracking--repo/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Aanchal1206/DSA--Tracking--repo/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 ## Hash Table
 |  |
 | ------- |
@@ -232,6 +233,7 @@ Every problem is an opportunity to improve.
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Aanchal1206/DSA--Tracking--repo/tree/master/0005-longest-palindromic-substring) |
 | [0152-maximum-product-subarray](https://github.com/Aanchal1206/DSA--Tracking--repo/tree/master/0152-maximum-product-subarray) |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Aanchal1206/DSA--Tracking--repo/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 ## Union-Find
 |  |
 | ------- |
@@ -330,8 +332,13 @@ Every problem is an opportunity to improve.
 | ------- |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Aanchal1206/DSA--Tracking--repo/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Aanchal1206/DSA--Tracking--repo/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Aanchal1206/DSA--Tracking--repo/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/Aanchal1206/DSA--Tracking--repo/tree/master/0141-linked-list-cycle) |
+## Matrix
+|  |
+| ------- |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Aanchal1206/DSA--Tracking--repo/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 <!---LeetCode Topics End-->
