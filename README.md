@@ -180,6 +180,7 @@ Every problem is an opportunity to improve.
 | [0076-minimum-window-substring](https://github.com/Aanchal1206/DSA--Tracking--repo/tree/master/0076-minimum-window-substring) |
 | [0128-longest-consecutive-sequence](https://github.com/Aanchal1206/DSA--Tracking--repo/tree/master/0128-longest-consecutive-sequence) |
 | [0141-linked-list-cycle](https://github.com/Aanchal1206/DSA--Tracking--repo/tree/master/0141-linked-list-cycle) |
+| [0146-lru-cache](https://github.com/Aanchal1206/DSA--Tracking--repo/tree/master/0146-lru-cache) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Aanchal1206/DSA--Tracking--repo/tree/master/0160-intersection-of-two-linked-lists) |
 | [0242-valid-anagram](https://github.com/Aanchal1206/DSA--Tracking--repo/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Aanchal1206/DSA--Tracking--repo/tree/master/0268-missing-number) |
@@ -338,6 +339,7 @@ Every problem is an opportunity to improve.
 | [0021-merge-two-sorted-lists](https://github.com/Aanchal1206/DSA--Tracking--repo/tree/master/0021-merge-two-sorted-lists) |
 | [0141-linked-list-cycle](https://github.com/Aanchal1206/DSA--Tracking--repo/tree/master/0141-linked-list-cycle) |
 | [0143-reorder-list](https://github.com/Aanchal1206/DSA--Tracking--repo/tree/master/0143-reorder-list) |
+| [0146-lru-cache](https://github.com/Aanchal1206/DSA--Tracking--repo/tree/master/0146-lru-cache) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Aanchal1206/DSA--Tracking--repo/tree/master/0160-intersection-of-two-linked-lists) |
 | [0206-reverse-linked-list](https://github.com/Aanchal1206/DSA--Tracking--repo/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/Aanchal1206/DSA--Tracking--repo/tree/master/0234-palindrome-linked-list) |
@@ -394,4 +396,12 @@ Every problem is an opportunity to improve.
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/Aanchal1206/DSA--Tracking--repo/tree/master/0022-generate-parentheses) |
+## Design
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/Aanchal1206/DSA--Tracking--repo/tree/master/0146-lru-cache) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/Aanchal1206/DSA--Tracking--repo/tree/master/0146-lru-cache) |
 <!---LeetCode Topics End-->
