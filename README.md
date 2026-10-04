@@ -161,6 +161,7 @@ Every problem is an opportunity to improve.
 | [0347-top-k-frequent-elements](https://github.com/Aanchal1206/DSA--Tracking--repo/tree/master/0347-top-k-frequent-elements) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Aanchal1206/DSA--Tracking--repo/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/Aanchal1206/DSA--Tracking--repo/tree/master/0485-max-consecutive-ones) |
+| [0496-next-greater-element-i](https://github.com/Aanchal1206/DSA--Tracking--repo/tree/master/0496-next-greater-element-i) |
 | [0643-maximum-average-subarray-i](https://github.com/Aanchal1206/DSA--Tracking--repo/tree/master/0643-maximum-average-subarray-i) |
 | [0645-set-mismatch](https://github.com/Aanchal1206/DSA--Tracking--repo/tree/master/0645-set-mismatch) |
 | [0704-binary-search](https://github.com/Aanchal1206/DSA--Tracking--repo/tree/master/0704-binary-search) |
@@ -188,6 +189,7 @@ Every problem is an opportunity to improve.
 | [0424-longest-repeating-character-replacement](https://github.com/Aanchal1206/DSA--Tracking--repo/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Aanchal1206/DSA--Tracking--repo/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Aanchal1206/DSA--Tracking--repo/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0496-next-greater-element-i](https://github.com/Aanchal1206/DSA--Tracking--repo/tree/master/0496-next-greater-element-i) |
 | [0567-permutation-in-string](https://github.com/Aanchal1206/DSA--Tracking--repo/tree/master/0567-permutation-in-string) |
 | [0645-set-mismatch](https://github.com/Aanchal1206/DSA--Tracking--repo/tree/master/0645-set-mismatch) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Aanchal1206/DSA--Tracking--repo/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -371,6 +373,7 @@ Every problem is an opportunity to improve.
 | [0143-reorder-list](https://github.com/Aanchal1206/DSA--Tracking--repo/tree/master/0143-reorder-list) |
 | [0155-min-stack](https://github.com/Aanchal1206/DSA--Tracking--repo/tree/master/0155-min-stack) |
 | [0234-palindrome-linked-list](https://github.com/Aanchal1206/DSA--Tracking--repo/tree/master/0234-palindrome-linked-list) |
+| [0496-next-greater-element-i](https://github.com/Aanchal1206/DSA--Tracking--repo/tree/master/0496-next-greater-element-i) |
 | [0678-valid-parenthesis-string](https://github.com/Aanchal1206/DSA--Tracking--repo/tree/master/0678-valid-parenthesis-string) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Aanchal1206/DSA--Tracking--repo/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Aanchal1206/DSA--Tracking--repo/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
@@ -435,4 +438,8 @@ Every problem is an opportunity to improve.
 |  |
 | ------- |
 | [0686-repeated-string-match](https://github.com/Aanchal1206/DSA--Tracking--repo/tree/master/0686-repeated-string-match) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/Aanchal1206/DSA--Tracking--repo/tree/master/0496-next-greater-element-i) |
 <!---LeetCode Topics End-->
