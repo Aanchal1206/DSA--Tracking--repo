@@ -369,6 +369,7 @@ Every problem is an opportunity to improve.
 | [0020-valid-parentheses](https://github.com/Aanchal1206/DSA--Tracking--repo/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Aanchal1206/DSA--Tracking--repo/tree/master/0032-longest-valid-parentheses) |
 | [0143-reorder-list](https://github.com/Aanchal1206/DSA--Tracking--repo/tree/master/0143-reorder-list) |
+| [0155-min-stack](https://github.com/Aanchal1206/DSA--Tracking--repo/tree/master/0155-min-stack) |
 | [0234-palindrome-linked-list](https://github.com/Aanchal1206/DSA--Tracking--repo/tree/master/0234-palindrome-linked-list) |
 | [0678-valid-parenthesis-string](https://github.com/Aanchal1206/DSA--Tracking--repo/tree/master/0678-valid-parenthesis-string) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Aanchal1206/DSA--Tracking--repo/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
@@ -409,6 +410,7 @@ Every problem is an opportunity to improve.
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/Aanchal1206/DSA--Tracking--repo/tree/master/0146-lru-cache) |
+| [0155-min-stack](https://github.com/Aanchal1206/DSA--Tracking--repo/tree/master/0155-min-stack) |
 ## Doubly-Linked List
 |  |
 | ------- |
