@@ -254,6 +254,7 @@ Every problem is an opportunity to improve.
 | [0022-generate-parentheses](https://github.com/Aanchal1206/DSA--Tracking--repo/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Aanchal1206/DSA--Tracking--repo/tree/master/0032-longest-valid-parentheses) |
 | [0152-maximum-product-subarray](https://github.com/Aanchal1206/DSA--Tracking--repo/tree/master/0152-maximum-product-subarray) |
+| [0678-valid-parenthesis-string](https://github.com/Aanchal1206/DSA--Tracking--repo/tree/master/0678-valid-parenthesis-string) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Aanchal1206/DSA--Tracking--repo/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 ## Union-Find
 |  |
@@ -280,6 +281,7 @@ Every problem is an opportunity to improve.
 | [0424-longest-repeating-character-replacement](https://github.com/Aanchal1206/DSA--Tracking--repo/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Aanchal1206/DSA--Tracking--repo/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/Aanchal1206/DSA--Tracking--repo/tree/master/0567-permutation-in-string) |
+| [0678-valid-parenthesis-string](https://github.com/Aanchal1206/DSA--Tracking--repo/tree/master/0678-valid-parenthesis-string) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Aanchal1206/DSA--Tracking--repo/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Aanchal1206/DSA--Tracking--repo/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Aanchal1206/DSA--Tracking--repo/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
@@ -306,6 +308,7 @@ Every problem is an opportunity to improve.
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Aanchal1206/DSA--Tracking--repo/tree/master/0011-container-with-most-water) |
+| [0678-valid-parenthesis-string](https://github.com/Aanchal1206/DSA--Tracking--repo/tree/master/0678-valid-parenthesis-string) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -363,6 +366,7 @@ Every problem is an opportunity to improve.
 | [0032-longest-valid-parentheses](https://github.com/Aanchal1206/DSA--Tracking--repo/tree/master/0032-longest-valid-parentheses) |
 | [0143-reorder-list](https://github.com/Aanchal1206/DSA--Tracking--repo/tree/master/0143-reorder-list) |
 | [0234-palindrome-linked-list](https://github.com/Aanchal1206/DSA--Tracking--repo/tree/master/0234-palindrome-linked-list) |
+| [0678-valid-parenthesis-string](https://github.com/Aanchal1206/DSA--Tracking--repo/tree/master/0678-valid-parenthesis-string) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Aanchal1206/DSA--Tracking--repo/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Aanchal1206/DSA--Tracking--repo/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Aanchal1206/DSA--Tracking--repo/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
@@ -372,6 +376,7 @@ Every problem is an opportunity to improve.
 | [0020-valid-parentheses](https://github.com/Aanchal1206/DSA--Tracking--repo/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/Aanchal1206/DSA--Tracking--repo/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Aanchal1206/DSA--Tracking--repo/tree/master/0032-longest-valid-parentheses) |
+| [0678-valid-parenthesis-string](https://github.com/Aanchal1206/DSA--Tracking--repo/tree/master/0678-valid-parenthesis-string) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Aanchal1206/DSA--Tracking--repo/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Aanchal1206/DSA--Tracking--repo/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Aanchal1206/DSA--Tracking--repo/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
