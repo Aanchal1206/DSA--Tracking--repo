@@ -283,6 +283,7 @@ Every problem is an opportunity to improve.
 | [0459-repeated-substring-pattern](https://github.com/Aanchal1206/DSA--Tracking--repo/tree/master/0459-repeated-substring-pattern) |
 | [0567-permutation-in-string](https://github.com/Aanchal1206/DSA--Tracking--repo/tree/master/0567-permutation-in-string) |
 | [0678-valid-parenthesis-string](https://github.com/Aanchal1206/DSA--Tracking--repo/tree/master/0678-valid-parenthesis-string) |
+| [0686-repeated-string-match](https://github.com/Aanchal1206/DSA--Tracking--repo/tree/master/0686-repeated-string-match) |
 | [0796-rotate-string](https://github.com/Aanchal1206/DSA--Tracking--repo/tree/master/0796-rotate-string) |
 | [0831-masking-personal-information](https://github.com/Aanchal1206/DSA--Tracking--repo/tree/master/0831-masking-personal-information) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Aanchal1206/DSA--Tracking--repo/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
@@ -416,13 +417,20 @@ Every problem is an opportunity to improve.
 |  |
 | ------- |
 | [0459-repeated-substring-pattern](https://github.com/Aanchal1206/DSA--Tracking--repo/tree/master/0459-repeated-substring-pattern) |
+| [0686-repeated-string-match](https://github.com/Aanchal1206/DSA--Tracking--repo/tree/master/0686-repeated-string-match) |
 | [0796-rotate-string](https://github.com/Aanchal1206/DSA--Tracking--repo/tree/master/0796-rotate-string) |
 ## Z Algorithm
 |  |
 | ------- |
 | [0459-repeated-substring-pattern](https://github.com/Aanchal1206/DSA--Tracking--repo/tree/master/0459-repeated-substring-pattern) |
+| [0686-repeated-string-match](https://github.com/Aanchal1206/DSA--Tracking--repo/tree/master/0686-repeated-string-match) |
 ## Knuth–Morris–Pratt Algorithm
 |  |
 | ------- |
 | [0459-repeated-substring-pattern](https://github.com/Aanchal1206/DSA--Tracking--repo/tree/master/0459-repeated-substring-pattern) |
+| [0686-repeated-string-match](https://github.com/Aanchal1206/DSA--Tracking--repo/tree/master/0686-repeated-string-match) |
+## Boyer–Moore String-Search Algorithm
+|  |
+| ------- |
+| [0686-repeated-string-match](https://github.com/Aanchal1206/DSA--Tracking--repo/tree/master/0686-repeated-string-match) |
 <!---LeetCode Topics End-->
