@@ -165,6 +165,7 @@ Every problem is an opportunity to improve.
 | [0643-maximum-average-subarray-i](https://github.com/Aanchal1206/DSA--Tracking--repo/tree/master/0643-maximum-average-subarray-i) |
 | [0645-set-mismatch](https://github.com/Aanchal1206/DSA--Tracking--repo/tree/master/0645-set-mismatch) |
 | [0704-binary-search](https://github.com/Aanchal1206/DSA--Tracking--repo/tree/master/0704-binary-search) |
+| [0735-asteroid-collision](https://github.com/Aanchal1206/DSA--Tracking--repo/tree/master/0735-asteroid-collision) |
 | [0875-koko-eating-bananas](https://github.com/Aanchal1206/DSA--Tracking--repo/tree/master/0875-koko-eating-bananas) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Aanchal1206/DSA--Tracking--repo/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Aanchal1206/DSA--Tracking--repo/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -378,6 +379,7 @@ Every problem is an opportunity to improve.
 | [0234-palindrome-linked-list](https://github.com/Aanchal1206/DSA--Tracking--repo/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/Aanchal1206/DSA--Tracking--repo/tree/master/0496-next-greater-element-i) |
 | [0678-valid-parenthesis-string](https://github.com/Aanchal1206/DSA--Tracking--repo/tree/master/0678-valid-parenthesis-string) |
+| [0735-asteroid-collision](https://github.com/Aanchal1206/DSA--Tracking--repo/tree/master/0735-asteroid-collision) |
 | [0856-score-of-parentheses](https://github.com/Aanchal1206/DSA--Tracking--repo/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Aanchal1206/DSA--Tracking--repo/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Aanchal1206/DSA--Tracking--repo/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
@@ -407,6 +409,7 @@ Every problem is an opportunity to improve.
 ## Simulation
 |  |
 | ------- |
+| [0735-asteroid-collision](https://github.com/Aanchal1206/DSA--Tracking--repo/tree/master/0735-asteroid-collision) |
 | [1929-concatenation-of-array](https://github.com/Aanchal1206/DSA--Tracking--repo/tree/master/1929-concatenation-of-array) |
 ## Counting Sort
 |  |
