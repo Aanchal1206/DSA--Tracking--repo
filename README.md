@@ -289,6 +289,7 @@ Every problem is an opportunity to improve.
 | [0796-rotate-string](https://github.com/Aanchal1206/DSA--Tracking--repo/tree/master/0796-rotate-string) |
 | [0831-masking-personal-information](https://github.com/Aanchal1206/DSA--Tracking--repo/tree/master/0831-masking-personal-information) |
 | [0856-score-of-parentheses](https://github.com/Aanchal1206/DSA--Tracking--repo/tree/master/0856-score-of-parentheses) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/Aanchal1206/DSA--Tracking--repo/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Aanchal1206/DSA--Tracking--repo/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Aanchal1206/DSA--Tracking--repo/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Aanchal1206/DSA--Tracking--repo/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
@@ -316,6 +317,7 @@ Every problem is an opportunity to improve.
 | ------- |
 | [0011-container-with-most-water](https://github.com/Aanchal1206/DSA--Tracking--repo/tree/master/0011-container-with-most-water) |
 | [0678-valid-parenthesis-string](https://github.com/Aanchal1206/DSA--Tracking--repo/tree/master/0678-valid-parenthesis-string) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/Aanchal1206/DSA--Tracking--repo/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -377,6 +379,7 @@ Every problem is an opportunity to improve.
 | [0496-next-greater-element-i](https://github.com/Aanchal1206/DSA--Tracking--repo/tree/master/0496-next-greater-element-i) |
 | [0678-valid-parenthesis-string](https://github.com/Aanchal1206/DSA--Tracking--repo/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/Aanchal1206/DSA--Tracking--repo/tree/master/0856-score-of-parentheses) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/Aanchal1206/DSA--Tracking--repo/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Aanchal1206/DSA--Tracking--repo/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Aanchal1206/DSA--Tracking--repo/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Aanchal1206/DSA--Tracking--repo/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
@@ -388,6 +391,7 @@ Every problem is an opportunity to improve.
 | [0032-longest-valid-parentheses](https://github.com/Aanchal1206/DSA--Tracking--repo/tree/master/0032-longest-valid-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/Aanchal1206/DSA--Tracking--repo/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/Aanchal1206/DSA--Tracking--repo/tree/master/0856-score-of-parentheses) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/Aanchal1206/DSA--Tracking--repo/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Aanchal1206/DSA--Tracking--repo/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Aanchal1206/DSA--Tracking--repo/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Aanchal1206/DSA--Tracking--repo/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
