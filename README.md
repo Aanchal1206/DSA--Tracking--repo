@@ -280,6 +280,7 @@ Every problem is an opportunity to improve.
 | [0076-minimum-window-substring](https://github.com/Aanchal1206/DSA--Tracking--repo/tree/master/0076-minimum-window-substring) |
 | [0151-reverse-words-in-a-string](https://github.com/Aanchal1206/DSA--Tracking--repo/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/Aanchal1206/DSA--Tracking--repo/tree/master/0242-valid-anagram) |
+| [0301-remove-invalid-parentheses](https://github.com/Aanchal1206/DSA--Tracking--repo/tree/master/0301-remove-invalid-parentheses) |
 | [0344-reverse-string](https://github.com/Aanchal1206/DSA--Tracking--repo/tree/master/0344-reverse-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/Aanchal1206/DSA--Tracking--repo/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Aanchal1206/DSA--Tracking--repo/tree/master/0438-find-all-anagrams-in-a-string) |
@@ -420,6 +421,7 @@ Every problem is an opportunity to improve.
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/Aanchal1206/DSA--Tracking--repo/tree/master/0022-generate-parentheses) |
+| [0301-remove-invalid-parentheses](https://github.com/Aanchal1206/DSA--Tracking--repo/tree/master/0301-remove-invalid-parentheses) |
 ## Design
 |  |
 | ------- |
@@ -464,4 +466,8 @@ Every problem is an opportunity to improve.
 |  |
 | ------- |
 | [0933-number-of-recent-calls](https://github.com/Aanchal1206/DSA--Tracking--repo/tree/master/0933-number-of-recent-calls) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0301-remove-invalid-parentheses](https://github.com/Aanchal1206/DSA--Tracking--repo/tree/master/0301-remove-invalid-parentheses) |
 <!---LeetCode Topics End-->
