@@ -175,6 +175,7 @@ Every problem is an opportunity to improve.
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Aanchal1206/DSA--Tracking--repo/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Aanchal1206/DSA--Tracking--repo/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Aanchal1206/DSA--Tracking--repo/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/Aanchal1206/DSA--Tracking--repo/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Hash Table
 |  |
 | ------- |
@@ -238,6 +239,7 @@ Every problem is an opportunity to improve.
 | [0645-set-mismatch](https://github.com/Aanchal1206/DSA--Tracking--repo/tree/master/0645-set-mismatch) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Aanchal1206/DSA--Tracking--repo/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Aanchal1206/DSA--Tracking--repo/tree/master/2333-minimum-sum-of-squared-difference) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/Aanchal1206/DSA--Tracking--repo/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Two Pointers
 |  |
 | ------- |
@@ -331,6 +333,7 @@ Every problem is an opportunity to improve.
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Aanchal1206/DSA--Tracking--repo/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Aanchal1206/DSA--Tracking--repo/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Aanchal1206/DSA--Tracking--repo/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/Aanchal1206/DSA--Tracking--repo/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Prefix Sum
 |  |
 | ------- |
