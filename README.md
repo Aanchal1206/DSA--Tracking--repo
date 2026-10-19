@@ -168,6 +168,7 @@ Every problem is an opportunity to improve.
 | [0704-binary-search](https://github.com/Aanchal1206/DSA--Tracking--repo/tree/master/0704-binary-search) |
 | [0735-asteroid-collision](https://github.com/Aanchal1206/DSA--Tracking--repo/tree/master/0735-asteroid-collision) |
 | [0875-koko-eating-bananas](https://github.com/Aanchal1206/DSA--Tracking--repo/tree/master/0875-koko-eating-bananas) |
+| [0905-sort-array-by-parity](https://github.com/Aanchal1206/DSA--Tracking--repo/tree/master/0905-sort-array-by-parity) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Aanchal1206/DSA--Tracking--repo/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Aanchal1206/DSA--Tracking--repo/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1470-shuffle-the-array](https://github.com/Aanchal1206/DSA--Tracking--repo/tree/master/1470-shuffle-the-array) |
@@ -253,6 +254,7 @@ Every problem is an opportunity to improve.
 | [0268-missing-number](https://github.com/Aanchal1206/DSA--Tracking--repo/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/Aanchal1206/DSA--Tracking--repo/tree/master/0347-top-k-frequent-elements) |
 | [0645-set-mismatch](https://github.com/Aanchal1206/DSA--Tracking--repo/tree/master/0645-set-mismatch) |
+| [0905-sort-array-by-parity](https://github.com/Aanchal1206/DSA--Tracking--repo/tree/master/0905-sort-array-by-parity) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Aanchal1206/DSA--Tracking--repo/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Aanchal1206/DSA--Tracking--repo/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Aanchal1206/DSA--Tracking--repo/tree/master/2333-minimum-sum-of-squared-difference) |
@@ -277,6 +279,7 @@ Every problem is an opportunity to improve.
 | [0344-reverse-string](https://github.com/Aanchal1206/DSA--Tracking--repo/tree/master/0344-reverse-string) |
 | [0567-permutation-in-string](https://github.com/Aanchal1206/DSA--Tracking--repo/tree/master/0567-permutation-in-string) |
 | [0876-middle-of-the-linked-list](https://github.com/Aanchal1206/DSA--Tracking--repo/tree/master/0876-middle-of-the-linked-list) |
+| [0905-sort-array-by-parity](https://github.com/Aanchal1206/DSA--Tracking--repo/tree/master/0905-sort-array-by-parity) |
 ## Dynamic Programming
 |  |
 | ------- |
