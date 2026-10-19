@@ -174,6 +174,7 @@ Every problem is an opportunity to improve.
 | [1470-shuffle-the-array](https://github.com/Aanchal1206/DSA--Tracking--repo/tree/master/1470-shuffle-the-array) |
 | [1480-running-sum-of-1d-array](https://github.com/Aanchal1206/DSA--Tracking--repo/tree/master/1480-running-sum-of-1d-array) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Aanchal1206/DSA--Tracking--repo/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+| [1672-richest-customer-wealth](https://github.com/Aanchal1206/DSA--Tracking--repo/tree/master/1672-richest-customer-wealth) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Aanchal1206/DSA--Tracking--repo/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1929-concatenation-of-array](https://github.com/Aanchal1206/DSA--Tracking--repo/tree/master/1929-concatenation-of-array) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Aanchal1206/DSA--Tracking--repo/tree/master/2089-find-target-indices-after-sorting-array) |
@@ -458,6 +459,7 @@ Every problem is an opportunity to improve.
 ## Matrix
 |  |
 | ------- |
+| [1672-richest-customer-wealth](https://github.com/Aanchal1206/DSA--Tracking--repo/tree/master/1672-richest-customer-wealth) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Aanchal1206/DSA--Tracking--repo/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 ## Simulation
 |  |
