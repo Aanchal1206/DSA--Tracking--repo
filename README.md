@@ -173,6 +173,7 @@ Every problem is an opportunity to improve.
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Aanchal1206/DSA--Tracking--repo/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Aanchal1206/DSA--Tracking--repo/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1929-concatenation-of-array](https://github.com/Aanchal1206/DSA--Tracking--repo/tree/master/1929-concatenation-of-array) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/Aanchal1206/DSA--Tracking--repo/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Aanchal1206/DSA--Tracking--repo/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Aanchal1206/DSA--Tracking--repo/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Aanchal1206/DSA--Tracking--repo/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
@@ -227,6 +228,7 @@ Every problem is an opportunity to improve.
 | [0704-binary-search](https://github.com/Aanchal1206/DSA--Tracking--repo/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/Aanchal1206/DSA--Tracking--repo/tree/master/0875-koko-eating-bananas) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Aanchal1206/DSA--Tracking--repo/tree/master/1011-capacity-to-ship-packages-within-d-days) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/Aanchal1206/DSA--Tracking--repo/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Aanchal1206/DSA--Tracking--repo/tree/master/2333-minimum-sum-of-squared-difference) |
 ## Bit Manipulation
 |  |
@@ -247,6 +249,7 @@ Every problem is an opportunity to improve.
 | [0347-top-k-frequent-elements](https://github.com/Aanchal1206/DSA--Tracking--repo/tree/master/0347-top-k-frequent-elements) |
 | [0645-set-mismatch](https://github.com/Aanchal1206/DSA--Tracking--repo/tree/master/0645-set-mismatch) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Aanchal1206/DSA--Tracking--repo/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/Aanchal1206/DSA--Tracking--repo/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Aanchal1206/DSA--Tracking--repo/tree/master/2333-minimum-sum-of-squared-difference) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/Aanchal1206/DSA--Tracking--repo/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Aanchal1206/DSA--Tracking--repo/tree/master/3727-maximum-alternating-sum-of-squares) |
