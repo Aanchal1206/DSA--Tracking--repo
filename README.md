@@ -209,6 +209,7 @@ Every problem is an opportunity to improve.
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Aanchal1206/DSA--Tracking--repo/tree/master/0002-add-two-numbers) |
+| [0231-power-of-two](https://github.com/Aanchal1206/DSA--Tracking--repo/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Aanchal1206/DSA--Tracking--repo/tree/master/0268-missing-number) |
 | [0509-fibonacci-number](https://github.com/Aanchal1206/DSA--Tracking--repo/tree/master/0509-fibonacci-number) |
 | [1137-n-th-tribonacci-number](https://github.com/Aanchal1206/DSA--Tracking--repo/tree/master/1137-n-th-tribonacci-number) |
@@ -234,6 +235,7 @@ Every problem is an opportunity to improve.
 |  |
 | ------- |
 | [0136-single-number](https://github.com/Aanchal1206/DSA--Tracking--repo/tree/master/0136-single-number) |
+| [0231-power-of-two](https://github.com/Aanchal1206/DSA--Tracking--repo/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Aanchal1206/DSA--Tracking--repo/tree/master/0268-missing-number) |
 | [0645-set-mismatch](https://github.com/Aanchal1206/DSA--Tracking--repo/tree/master/0645-set-mismatch) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Aanchal1206/DSA--Tracking--repo/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
@@ -399,6 +401,7 @@ Every problem is an opportunity to improve.
 | [0021-merge-two-sorted-lists](https://github.com/Aanchal1206/DSA--Tracking--repo/tree/master/0021-merge-two-sorted-lists) |
 | [0143-reorder-list](https://github.com/Aanchal1206/DSA--Tracking--repo/tree/master/0143-reorder-list) |
 | [0206-reverse-linked-list](https://github.com/Aanchal1206/DSA--Tracking--repo/tree/master/0206-reverse-linked-list) |
+| [0231-power-of-two](https://github.com/Aanchal1206/DSA--Tracking--repo/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/Aanchal1206/DSA--Tracking--repo/tree/master/0234-palindrome-linked-list) |
 | [0509-fibonacci-number](https://github.com/Aanchal1206/DSA--Tracking--repo/tree/master/0509-fibonacci-number) |
 ## Interactive
