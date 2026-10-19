@@ -149,6 +149,7 @@ Every problem is an opportunity to improve.
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Aanchal1206/DSA--Tracking--repo/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/Aanchal1206/DSA--Tracking--repo/tree/master/0035-search-insert-position) |
 | [0049-group-anagrams](https://github.com/Aanchal1206/DSA--Tracking--repo/tree/master/0049-group-anagrams) |
+| [0054-spiral-matrix](https://github.com/Aanchal1206/DSA--Tracking--repo/tree/master/0054-spiral-matrix) |
 | [0056-merge-intervals](https://github.com/Aanchal1206/DSA--Tracking--repo/tree/master/0056-merge-intervals) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Aanchal1206/DSA--Tracking--repo/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/Aanchal1206/DSA--Tracking--repo/tree/master/0088-merge-sorted-array) |
@@ -459,11 +460,13 @@ Every problem is an opportunity to improve.
 ## Matrix
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/Aanchal1206/DSA--Tracking--repo/tree/master/0054-spiral-matrix) |
 | [1672-richest-customer-wealth](https://github.com/Aanchal1206/DSA--Tracking--repo/tree/master/1672-richest-customer-wealth) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Aanchal1206/DSA--Tracking--repo/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/Aanchal1206/DSA--Tracking--repo/tree/master/0054-spiral-matrix) |
 | [0735-asteroid-collision](https://github.com/Aanchal1206/DSA--Tracking--repo/tree/master/0735-asteroid-collision) |
 | [1929-concatenation-of-array](https://github.com/Aanchal1206/DSA--Tracking--repo/tree/master/1929-concatenation-of-array) |
 ## Counting Sort
