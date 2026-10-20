@@ -161,6 +161,7 @@ Every problem is an opportunity to improve.
 | [0268-missing-number](https://github.com/Aanchal1206/DSA--Tracking--repo/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Aanchal1206/DSA--Tracking--repo/tree/master/0283-move-zeroes) |
 | [0347-top-k-frequent-elements](https://github.com/Aanchal1206/DSA--Tracking--repo/tree/master/0347-top-k-frequent-elements) |
+| [0349-intersection-of-two-arrays](https://github.com/Aanchal1206/DSA--Tracking--repo/tree/master/0349-intersection-of-two-arrays) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Aanchal1206/DSA--Tracking--repo/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/Aanchal1206/DSA--Tracking--repo/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/Aanchal1206/DSA--Tracking--repo/tree/master/0496-next-greater-element-i) |
@@ -200,6 +201,7 @@ Every problem is an opportunity to improve.
 | [0242-valid-anagram](https://github.com/Aanchal1206/DSA--Tracking--repo/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Aanchal1206/DSA--Tracking--repo/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/Aanchal1206/DSA--Tracking--repo/tree/master/0347-top-k-frequent-elements) |
+| [0349-intersection-of-two-arrays](https://github.com/Aanchal1206/DSA--Tracking--repo/tree/master/0349-intersection-of-two-arrays) |
 | [0424-longest-repeating-character-replacement](https://github.com/Aanchal1206/DSA--Tracking--repo/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Aanchal1206/DSA--Tracking--repo/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Aanchal1206/DSA--Tracking--repo/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -234,6 +236,7 @@ Every problem is an opportunity to improve.
 | [0209-minimum-size-subarray-sum](https://github.com/Aanchal1206/DSA--Tracking--repo/tree/master/0209-minimum-size-subarray-sum) |
 | [0268-missing-number](https://github.com/Aanchal1206/DSA--Tracking--repo/tree/master/0268-missing-number) |
 | [0278-first-bad-version](https://github.com/Aanchal1206/DSA--Tracking--repo/tree/master/0278-first-bad-version) |
+| [0349-intersection-of-two-arrays](https://github.com/Aanchal1206/DSA--Tracking--repo/tree/master/0349-intersection-of-two-arrays) |
 | [0704-binary-search](https://github.com/Aanchal1206/DSA--Tracking--repo/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/Aanchal1206/DSA--Tracking--repo/tree/master/0875-koko-eating-bananas) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Aanchal1206/DSA--Tracking--repo/tree/master/1011-capacity-to-ship-packages-within-d-days) |
@@ -257,6 +260,7 @@ Every problem is an opportunity to improve.
 | [0242-valid-anagram](https://github.com/Aanchal1206/DSA--Tracking--repo/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Aanchal1206/DSA--Tracking--repo/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/Aanchal1206/DSA--Tracking--repo/tree/master/0347-top-k-frequent-elements) |
+| [0349-intersection-of-two-arrays](https://github.com/Aanchal1206/DSA--Tracking--repo/tree/master/0349-intersection-of-two-arrays) |
 | [0645-set-mismatch](https://github.com/Aanchal1206/DSA--Tracking--repo/tree/master/0645-set-mismatch) |
 | [0905-sort-array-by-parity](https://github.com/Aanchal1206/DSA--Tracking--repo/tree/master/0905-sort-array-by-parity) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Aanchal1206/DSA--Tracking--repo/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -282,6 +286,7 @@ Every problem is an opportunity to improve.
 | [0234-palindrome-linked-list](https://github.com/Aanchal1206/DSA--Tracking--repo/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/Aanchal1206/DSA--Tracking--repo/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/Aanchal1206/DSA--Tracking--repo/tree/master/0344-reverse-string) |
+| [0349-intersection-of-two-arrays](https://github.com/Aanchal1206/DSA--Tracking--repo/tree/master/0349-intersection-of-two-arrays) |
 | [0567-permutation-in-string](https://github.com/Aanchal1206/DSA--Tracking--repo/tree/master/0567-permutation-in-string) |
 | [0876-middle-of-the-linked-list](https://github.com/Aanchal1206/DSA--Tracking--repo/tree/master/0876-middle-of-the-linked-list) |
 | [0905-sort-array-by-parity](https://github.com/Aanchal1206/DSA--Tracking--repo/tree/master/0905-sort-array-by-parity) |
