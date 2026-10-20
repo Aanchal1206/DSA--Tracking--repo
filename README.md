@@ -210,6 +210,7 @@ Every problem is an opportunity to improve.
 | [0645-set-mismatch](https://github.com/Aanchal1206/DSA--Tracking--repo/tree/master/0645-set-mismatch) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Aanchal1206/DSA--Tracking--repo/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Aanchal1206/DSA--Tracking--repo/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
+| [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Aanchal1206/DSA--Tracking--repo/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Aanchal1206/DSA--Tracking--repo/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/Aanchal1206/DSA--Tracking--repo/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/Aanchal1206/DSA--Tracking--repo/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
@@ -344,6 +345,7 @@ Every problem is an opportunity to improve.
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Aanchal1206/DSA--Tracking--repo/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Aanchal1206/DSA--Tracking--repo/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Aanchal1206/DSA--Tracking--repo/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
+| [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Aanchal1206/DSA--Tracking--repo/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 ## Trie
 |  |
 | ------- |
@@ -362,6 +364,7 @@ Every problem is an opportunity to improve.
 | [0438-find-all-anagrams-in-a-string](https://github.com/Aanchal1206/DSA--Tracking--repo/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/Aanchal1206/DSA--Tracking--repo/tree/master/0567-permutation-in-string) |
 | [0643-maximum-average-subarray-i](https://github.com/Aanchal1206/DSA--Tracking--repo/tree/master/0643-maximum-average-subarray-i) |
+| [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Aanchal1206/DSA--Tracking--repo/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 ## Greedy
 |  |
 | ------- |
@@ -397,6 +400,7 @@ Every problem is an opportunity to improve.
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Aanchal1206/DSA--Tracking--repo/tree/master/0347-top-k-frequent-elements) |
+| [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Aanchal1206/DSA--Tracking--repo/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 ## Quickselect
 |  |
 | ------- |
