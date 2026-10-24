@@ -225,6 +225,7 @@ Every problem is an opportunity to improve.
 | [0509-fibonacci-number](https://github.com/Aanchal1206/DSA--Tracking--repo/tree/master/0509-fibonacci-number) |
 | [1137-n-th-tribonacci-number](https://github.com/Aanchal1206/DSA--Tracking--repo/tree/master/1137-n-th-tribonacci-number) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Aanchal1206/DSA--Tracking--repo/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+| [2409-count-days-spent-together](https://github.com/Aanchal1206/DSA--Tracking--repo/tree/master/2409-count-days-spent-together) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/Aanchal1206/DSA--Tracking--repo/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3886-sum-of-sortable-integers](https://github.com/Aanchal1206/DSA--Tracking--repo/tree/master/3886-sum-of-sortable-integers) |
 ## Binary Search
@@ -347,6 +348,7 @@ Every problem is an opportunity to improve.
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Aanchal1206/DSA--Tracking--repo/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Aanchal1206/DSA--Tracking--repo/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Aanchal1206/DSA--Tracking--repo/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
+| [2409-count-days-spent-together](https://github.com/Aanchal1206/DSA--Tracking--repo/tree/master/2409-count-days-spent-together) |
 ## Trie
 |  |
 | ------- |
