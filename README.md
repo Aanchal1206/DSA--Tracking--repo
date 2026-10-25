@@ -172,6 +172,7 @@ Every problem is an opportunity to improve.
 | [0875-koko-eating-bananas](https://github.com/Aanchal1206/DSA--Tracking--repo/tree/master/0875-koko-eating-bananas) |
 | [0905-sort-array-by-parity](https://github.com/Aanchal1206/DSA--Tracking--repo/tree/master/0905-sort-array-by-parity) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Aanchal1206/DSA--Tracking--repo/tree/master/1011-capacity-to-ship-packages-within-d-days) |
+| [1254-number-of-closed-islands](https://github.com/Aanchal1206/DSA--Tracking--repo/tree/master/1254-number-of-closed-islands) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Aanchal1206/DSA--Tracking--repo/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1470-shuffle-the-array](https://github.com/Aanchal1206/DSA--Tracking--repo/tree/master/1470-shuffle-the-array) |
 | [1480-running-sum-of-1d-array](https://github.com/Aanchal1206/DSA--Tracking--repo/tree/master/1480-running-sum-of-1d-array) |
@@ -309,6 +310,7 @@ Every problem is an opportunity to improve.
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/Aanchal1206/DSA--Tracking--repo/tree/master/0128-longest-consecutive-sequence) |
+| [1254-number-of-closed-islands](https://github.com/Aanchal1206/DSA--Tracking--repo/tree/master/1254-number-of-closed-islands) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Aanchal1206/DSA--Tracking--repo/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Quicksort
 |  |
@@ -478,6 +480,7 @@ Every problem is an opportunity to improve.
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/Aanchal1206/DSA--Tracking--repo/tree/master/0054-spiral-matrix) |
+| [1254-number-of-closed-islands](https://github.com/Aanchal1206/DSA--Tracking--repo/tree/master/1254-number-of-closed-islands) |
 | [1672-richest-customer-wealth](https://github.com/Aanchal1206/DSA--Tracking--repo/tree/master/1672-richest-customer-wealth) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Aanchal1206/DSA--Tracking--repo/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 ## Simulation
@@ -543,6 +546,7 @@ Every problem is an opportunity to improve.
 |  |
 | ------- |
 | [0301-remove-invalid-parentheses](https://github.com/Aanchal1206/DSA--Tracking--repo/tree/master/0301-remove-invalid-parentheses) |
+| [1254-number-of-closed-islands](https://github.com/Aanchal1206/DSA--Tracking--repo/tree/master/1254-number-of-closed-islands) |
 ## Binary Indexed Tree
 |  |
 | ------- |
@@ -581,4 +585,8 @@ Every problem is an opportunity to improve.
 |  |
 | ------- |
 | [3886-sum-of-sortable-integers](https://github.com/Aanchal1206/DSA--Tracking--repo/tree/master/3886-sum-of-sortable-integers) |
+## Depth-First Search
+|  |
+| ------- |
+| [1254-number-of-closed-islands](https://github.com/Aanchal1206/DSA--Tracking--repo/tree/master/1254-number-of-closed-islands) |
 <!---LeetCode Topics End-->
