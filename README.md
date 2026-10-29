@@ -188,6 +188,7 @@ Every problem is an opportunity to improve.
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/Aanchal1206/DSA--Tracking--repo/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Aanchal1206/DSA--Tracking--repo/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Aanchal1206/DSA--Tracking--repo/tree/master/3727-maximum-alternating-sum-of-squares) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/Aanchal1206/DSA--Tracking--repo/tree/master/3841-palindromic-path-queries-in-a-tree) |
 | [3886-sum-of-sortable-integers](https://github.com/Aanchal1206/DSA--Tracking--repo/tree/master/3886-sum-of-sortable-integers) |
 | [3942-minimum-operations-to-sort-a-permutation](https://github.com/Aanchal1206/DSA--Tracking--repo/tree/master/3942-minimum-operations-to-sort-a-permutation) |
 ## Hash Table
@@ -255,6 +256,7 @@ Every problem is an opportunity to improve.
 | [0268-missing-number](https://github.com/Aanchal1206/DSA--Tracking--repo/tree/master/0268-missing-number) |
 | [0645-set-mismatch](https://github.com/Aanchal1206/DSA--Tracking--repo/tree/master/0645-set-mismatch) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Aanchal1206/DSA--Tracking--repo/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/Aanchal1206/DSA--Tracking--repo/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Sorting
 |  |
 | ------- |
@@ -353,6 +355,7 @@ Every problem is an opportunity to improve.
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Aanchal1206/DSA--Tracking--repo/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Aanchal1206/DSA--Tracking--repo/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [2409-count-days-spent-together](https://github.com/Aanchal1206/DSA--Tracking--repo/tree/master/2409-count-days-spent-together) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/Aanchal1206/DSA--Tracking--repo/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Trie
 |  |
 | ------- |
@@ -394,6 +397,7 @@ Every problem is an opportunity to improve.
 | [0004-median-of-two-sorted-arrays](https://github.com/Aanchal1206/DSA--Tracking--repo/tree/master/0004-median-of-two-sorted-arrays) |
 | [0347-top-k-frequent-elements](https://github.com/Aanchal1206/DSA--Tracking--repo/tree/master/0347-top-k-frequent-elements) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Aanchal1206/DSA--Tracking--repo/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/Aanchal1206/DSA--Tracking--repo/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -555,14 +559,17 @@ Every problem is an opportunity to improve.
 |  |
 | ------- |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/Aanchal1206/DSA--Tracking--repo/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/Aanchal1206/DSA--Tracking--repo/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Segment Tree
 |  |
 | ------- |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/Aanchal1206/DSA--Tracking--repo/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/Aanchal1206/DSA--Tracking--repo/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Tree
 |  |
 | ------- |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Aanchal1206/DSA--Tracking--repo/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/Aanchal1206/DSA--Tracking--repo/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -594,4 +601,5 @@ Every problem is an opportunity to improve.
 | ------- |
 | [1254-number-of-closed-islands](https://github.com/Aanchal1206/DSA--Tracking--repo/tree/master/1254-number-of-closed-islands) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Aanchal1206/DSA--Tracking--repo/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/Aanchal1206/DSA--Tracking--repo/tree/master/3841-palindromic-path-queries-in-a-tree) |
 <!---LeetCode Topics End-->
