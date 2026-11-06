@@ -186,6 +186,7 @@ Every problem is an opportunity to improve.
 | [2089-find-target-indices-after-sorting-array](https://github.com/Aanchal1206/DSA--Tracking--repo/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Aanchal1206/DSA--Tracking--repo/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Aanchal1206/DSA--Tracking--repo/tree/master/2333-minimum-sum-of-squared-difference) |
+| [2747-count-zero-request-servers](https://github.com/Aanchal1206/DSA--Tracking--repo/tree/master/2747-count-zero-request-servers) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Aanchal1206/DSA--Tracking--repo/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/Aanchal1206/DSA--Tracking--repo/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/Aanchal1206/DSA--Tracking--repo/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
@@ -220,6 +221,7 @@ Every problem is an opportunity to improve.
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Aanchal1206/DSA--Tracking--repo/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Aanchal1206/DSA--Tracking--repo/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Aanchal1206/DSA--Tracking--repo/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
+| [2747-count-zero-request-servers](https://github.com/Aanchal1206/DSA--Tracking--repo/tree/master/2747-count-zero-request-servers) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Aanchal1206/DSA--Tracking--repo/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/Aanchal1206/DSA--Tracking--repo/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/Aanchal1206/DSA--Tracking--repo/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
@@ -286,6 +288,7 @@ Every problem is an opportunity to improve.
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Aanchal1206/DSA--Tracking--repo/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Aanchal1206/DSA--Tracking--repo/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Aanchal1206/DSA--Tracking--repo/tree/master/2333-minimum-sum-of-squared-difference) |
+| [2747-count-zero-request-servers](https://github.com/Aanchal1206/DSA--Tracking--repo/tree/master/2747-count-zero-request-servers) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/Aanchal1206/DSA--Tracking--repo/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Aanchal1206/DSA--Tracking--repo/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3886-sum-of-sortable-integers](https://github.com/Aanchal1206/DSA--Tracking--repo/tree/master/3886-sum-of-sortable-integers) |
@@ -391,6 +394,7 @@ Every problem is an opportunity to improve.
 | [0567-permutation-in-string](https://github.com/Aanchal1206/DSA--Tracking--repo/tree/master/0567-permutation-in-string) |
 | [0643-maximum-average-subarray-i](https://github.com/Aanchal1206/DSA--Tracking--repo/tree/master/0643-maximum-average-subarray-i) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Aanchal1206/DSA--Tracking--repo/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
+| [2747-count-zero-request-servers](https://github.com/Aanchal1206/DSA--Tracking--repo/tree/master/2747-count-zero-request-servers) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/Aanchal1206/DSA--Tracking--repo/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 ## Greedy
 |  |
